@@ -29,7 +29,7 @@ module.exports.run = async (client, message, args) => {
                 .setAuthor("🔨 Equipe")
                 .setDescription(`*Algumas informações*
 \n**P:** Onde faço o formulário?
-**R:** [Clique aqui]https://goo.gl/forms/yAOsIQ3jkJaOIhFe2) e preencha o formulário de __Ajudante__.
+**R:** [Clique aqui](https://goo.gl/forms/yAOsIQ3jkJaOIhFe2) e preencha o formulário de __Ajudante__.
 
 **P:** Onde/Quando recebo a resposta?
 **R:** Se for aceito, será respondido em menos de 72 horas por mensagem privada no Discord.`)
